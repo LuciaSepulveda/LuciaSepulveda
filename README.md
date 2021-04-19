@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 ### 🛠️ My Projects
-<a href="https://aerolabchallenge.web.app/" target="_blank"><img alt="Aerolab Challenge" src="https://media.giphy.com/media/yo04mwjXqBKZ8GIlDq/giphy.gif" height="150" align="left"></a>
-<a href="https://realtrends-challenge.netlify.app/" target="_blank"><img alt="RealTrends Challenge" src="https://media.giphy.com/media/GyWMoCfpKK87IiQIWc/giphy.gif" height="150" align="left"></a>
-<a href="https://quizbox-vision.web.app/" target="_blank"> <img alt="QuizBox Challenge" src="https://media.giphy.com/media/7ktPrTC9wnNwCqTBEv/giphy.gif" height="150" align="left"></a>
+| | |
+|:-------------:|:-------------:|
+| <a href="https://aerolabchallenge.web.app/" target="_blank"><img alt="Aerolab Challenge" src="https://media.giphy.com/media/yo04mwjXqBKZ8GIlDq/giphy.gif" height="150" align="left"></a>|<a href="https://realtrends-challenge.netlify.app/" target="_blank"><img alt="RealTrends Challenge" src="https://media.giphy.com/media/GyWMoCfpKK87IiQIWc/giphy.gif" height="150" align="left"></a>|
+|<a href="https://quizbox-vision.web.app/" target="_blank"> <img alt="QuizBox Challenge" src="https://media.giphy.com/media/7ktPrTC9wnNwCqTBEv/giphy.gif" height="150" align="left"></a>|<a href="https://random-quote-luciasepulveda.netlify.app/" target="_blank"> <img alt="Random Quote Generator" src="https://media.giphy.com/media/KLL6VFvXFUph4w66nf/giphy.gif" height="150" align="left"></a>|
