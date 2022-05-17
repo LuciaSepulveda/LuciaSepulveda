@@ -27,8 +27,12 @@ You can click the Preview link to take a look at your changes.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/LuciaSepulveda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaSepulveda&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Lucia's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-seven-jet.vercel.app/api/top-langs/?username=LuciaSepulveda&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Lucia's GitHub Stats" />
 </a>
+
+
+![Lucia's GitHub stats](https://github-readme-stats-seven-jet.vercel.app/api?username=LuciaSepulveda&show_icons=true&theme=radical)
+
 
 ### 🛠️ My Projects
 | <a href="https://abtm.vercel.app/" target="_blank"> <img alt="ABTM" src="https://media.giphy.com/media/ksse61WZ3HXfCAOtpI/giphy.gif" height="150" align="center"></a>|<a href="https://luciasepulveda.netlify.app/" target="_blank"><img alt="Portfolio" src="https://media.giphy.com/media/kU0fVfR7T5ieEOvppg/giphy.gif" height="150" align="center"></a>|
