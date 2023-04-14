@@ -1,9 +1,8 @@
 # Hello there 👋
 
 - 👋 Hi, I’m @LuciaSepulveda
-- 💻 I’m studying engineering in computer 
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning ReactJS
+- 💻 I’m a front-end developer
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
