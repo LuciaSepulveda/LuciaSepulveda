@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🛠️ My Projects
-| <a href="https://abtm.vercel.app/" target="_blank"> <img alt="ABTM" src="https://media.giphy.com/media/ksse61WZ3HXfCAOtpI/giphy.gif" height="150" align="center"></a>|<a href="https://luciasepulveda.netlify.app/" target="_blank"><img alt="Portfolio" src="https://media.giphy.com/media/kU0fVfR7T5ieEOvppg/giphy.gif" height="150" align="center"></a>|
+| <a href="https://abtm.vercel.app/" target="_blank"> <img alt="ABTM" src="https://media.giphy.com/media/ksse61WZ3HXfCAOtpI/giphy.gif" height="150" align="center"></a>|<a href="https://luciasepulveda.vercel.app/" target="_blank"><img alt="Portfolio" src="https://media.giphy.com/media/kU0fVfR7T5ieEOvppg/giphy.gif" height="150" align="center"></a>|
 |:-------------:|:-------------:|
 |<a href="https://sambuche.netlify.app/" target="_blank"> <img alt="Sambuche App" src="https://media.giphy.com/media/VPLRg74LghigC8YaeF/giphy.gif" height="150" align="center"></a>|<a href="https://basement-challenge-ls.vercel.app/" target="_blank"> <img alt="Basement Challenge" src="https://media.giphy.com/media/e8AFT2Ee3eOb4KYD1w/giphy.gif?cid=790b7611c8226c3ea4cb3f9b37ad39184545bc33d61cc46e&rid=giphy.gif&ct=g" height="150" align="center"></a>|
 |<a href="https://aerolabchallenge.web.app/" target="_blank"><img alt="Aerolab Challenge" src="https://media.giphy.com/media/yo04mwjXqBKZ8GIlDq/giphy.gif" height="150" align="center"></a>|<a href="https://cognizant-softvision-challenge.netlify.app/" target="_blank"><img alt="Softvision Challenge" src="https://media.giphy.com/media/EixfJuTJKtX2PHm9Q7/giphy.gif?cid=790b761123b7e2b409fe9342bd1abd7f2f6080d6e5e86955&rid=giphy.gif&ct=g" height="150" align="center"></a>|
