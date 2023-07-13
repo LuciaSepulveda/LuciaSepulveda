@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @LuciaSepulveda
 - 💻 I’m a front-end developer
+- ➡️ My portfolio: [https://luciasepulveda.vercel.app/](https://luciasepulveda.vercel.app/)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
@@ -14,13 +15,14 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=lightblue)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=black)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red)
 
 
 ## &#x1f4c8; GitHub Stats
