@@ -1,7 +1,7 @@
 # Hello there 👋
 
 - 👋 Hi, I’m @LuciaSepulveda
-- 💻 I’m a front-end developer with more than a two years and a half of experience
+- 💻 I’m a front-end developer with three years of experience
 - ➡️ My portfolio: [https://luciasepulveda.vercel.app/](https://luciasepulveda.vercel.app/)
 
 <!---
